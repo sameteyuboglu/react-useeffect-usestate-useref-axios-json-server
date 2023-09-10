@@ -54,7 +54,7 @@ json-server --watch db.json --port 3030
 sonra projemizi ayağa kaldırıyoruz
 
 ```sh
-npm run server
+npm run dev
 ```
 
 <p align="right">(<a href="#readme-top">Başa Dön</a>)</p>
